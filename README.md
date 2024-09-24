@@ -1,4 +1,4 @@
-```
+```c#
 namespace _4._1._1._1_DataTypes
 {
     internal class Program
